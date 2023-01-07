@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/out-there-omega-cheatsheet/static/css/main.e6c13ad2.css",
+    "main.js": "/out-there-omega-cheatsheet/static/js/main.e06fff79.js",
+    "index.html": "/out-there-omega-cheatsheet/index.html",
+    "main.e6c13ad2.css.map": "/out-there-omega-cheatsheet/static/css/main.e6c13ad2.css.map",
+    "main.e06fff79.js.map": "/out-there-omega-cheatsheet/static/js/main.e06fff79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e06fff79.js"
+  ]
+}
